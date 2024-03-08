@@ -1,0 +1,15 @@
+{
+  "name": "binar-fsw-challenge-02",
+  "version": "1.0.0",
+  "description": "Challenge 2 Binar",
+  "main": "server/index.js",
+  "author": "Ananda Ias Falah Surya Gemilang",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
